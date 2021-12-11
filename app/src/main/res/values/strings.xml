@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="reloadPokemon">Reload</string>
+    <string name="stats">Stats:</string>
+    <string name="moves">Moves:</string>
+    <string name="statDescName">Stat name:</string>
+    <string name="descBaseStat">Base stat:</string>
+    <string name="descEffort">Effort:</string>
+</resources>
